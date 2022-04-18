@@ -14,3 +14,13 @@ user login jana url:
 http://localhost/tms
 Username : turguns@gmail.com
 Password : Test@123
+
+
+
+=================DB==============
+DB rezervniy kopirovanie
+/Applications/XAMPP/xamppfiles/bin/mysqldump -u root -p tms > ~/Documents/tms18042022.sql
+
+DB vostanovlenie
+Create DB
+/Applications/XAMPP/xamppfiles/bin/mysql -u root tms <  ~/Documents/tms18042022.sql
