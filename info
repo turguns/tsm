@@ -1,0 +1,16 @@
+Ustanovka jana konfiguracia
+1.  tms papkani  negizgi papkaga kochur (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+Database Konfiguracia
+
+Import database tms.sql 
+browser'den adres http://localhost/tms
+ admin url jana login: 
+http://localhost/tms/admin
+Username : admin
+Password : Test@123
+
+user login jana url: 
+http://localhost/tms
+Username : turguns@gmail.com
+Password : Test@123
