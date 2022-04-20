@@ -45,6 +45,15 @@
             <li><div class="securetxt">SAFE &amp; SECURE </div></li>
 			<div class="clearfix"></div>
 		</div>
+
+		<div id="google_translate_element"></div>
+            <script type="text/javascript">// <![CDATA[
+            function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');   
+             }
+// ]]></script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+
 		<div class="clearfix"></div>
 	</div>
 </div>
@@ -80,6 +89,8 @@
 								<li><a href="enquiry.php"> Enquiry </a>  </li>
 								<?php } ?>
 								<div class="clearfix"></div>
+
+											
 
 						</ul>
 					</nav>
