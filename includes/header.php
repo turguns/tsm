@@ -82,6 +82,8 @@
 								<li><a href="page.php?type=privacy">Video Gallery </a></li>
 								<li><a href="page.php?type=terms">Audio Guide</a></li>
 								<li><a href="page.php?type=contact">Contact Us</a></li>
+								<li><a href="page.php?type=phrases">Kyrgyz Phrases</a></li>
+
 								<?php if($_SESSION['login'])
 {?>
 								<li>Need Help?<a href="#" data-toggle="modal" data-target="#myModal3"> / Write Us </a>  </li>
